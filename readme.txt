@@ -1,2 +1,2 @@
-Git is a bersion control system.
+Git is a distributrd bersion control system.
 Git is free software.
